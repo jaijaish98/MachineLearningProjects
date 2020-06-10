@@ -1,0 +1,4 @@
+opencv-python
+
+1) Attendance marking system
+2) Motion capture using surveillance camera
